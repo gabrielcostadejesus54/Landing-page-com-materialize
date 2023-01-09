@@ -1,0 +1,40 @@
+nav ul a,
+nav .brand-logo {
+  color: white;
+}
+
+.sessao01{
+  padding: 100px 0;
+}
+
+.sessao01 form{
+  max-width: 800px;
+  width: 100%;
+  background-color: white;
+  margin: auto;
+  padding: 30px;
+}
+/* fim sessao 01 */
+
+/* sessao02 */
+.wrapper-linha h2{
+  font-size: 25px;
+  margin-bottom: 30px;
+  position: relative;
+  background-color: white;
+  display: inline-block;
+  padding-right: 8px;
+}
+
+ .wrapper-linha .linha{
+  width: 100%;
+  background-color: #777;
+  height: 3px;
+  top: 55px;
+  position: relative;
+}
+
+.sessao03 .card{
+  width: 100%;
+  min-height: 340px;
+}
